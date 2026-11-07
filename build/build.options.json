@@ -1,0 +1,10 @@
+{
+  "additionalFiles": "",
+  "builtInLibrariesFolders": "C:\\Users\\young mei\\AppData\\Local\\Arduino15\\libraries",
+  "compiler.optimization_flags": "-Os",
+  "customBuildProperties": "",
+  "fqbn": "m5stack:esp32:m5stack_sticks3:UploadSpeed=921600,USBMode=hwcdc,CDCOnBoot=cdc,MSCOnBoot=default,DFUOnBoot=default,UploadMode=default,CPUFreq=240,FlashMode=qio,FlashSize=8M,PartitionScheme=default_8MB,DebugLevel=none,PSRAM=opi,LoopCore=1,EventsCore=1,EraseFlash=none,JTAGAdapter=default",
+  "hardwareFolders": "C:\\Users\\young mei\\AppData\\Local\\Arduino15\\packages\\m5stack\\hardware\\esp32\\3.3.10,C:\\Users\\young mei\\AppData\\Local\\Arduino15\\packages\\m5stack\\hardware\\esp32\\3.3.10",
+  "otherLibrariesFolders": "c:\\Users\\young mei\\Documents\\Arduino\\libraries",
+  "sketchLocation": "C:\\Users\\young mei\\Documents\\GitHub\\M5 StickS3 pocket metronome\\M5StickS3_Metronome"
+}
